@@ -32,7 +32,7 @@ if [[ $1 == "clone" ]]; then
   repodir=$HOME/"$2""$3"/
 
   echo "Cloning repo..."
-  git clone ssh://git@bitbucket.org/"$4"/"$3".git "$repodir"
+  git clone ssh://org/"$4"/"$3".git "$repodir"
 
   exit 0
 fi
