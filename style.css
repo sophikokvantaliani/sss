@@ -301,7 +301,7 @@ nav ul li a:hover::after {
 .author-image img {
     border-radius: 50%;
     box-shadow: var(--shadow);
-    max-width: 250px;
+    max-width: 300px;
     margin: 0 auto;
 }
 
