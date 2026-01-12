@@ -299,7 +299,7 @@ nav ul li a:hover::after {
 }
 
 .author-image img {
-    border-radius: 50%;
+    border-radius: 5%;
     box-shadow: var(--shadow);
     max-width: 250px;
     margin: 0 auto;
